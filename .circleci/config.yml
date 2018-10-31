@@ -25,6 +25,7 @@ jobs:
           name: test
           command: |
                    docker-compose
+                   echo fun
 
 
 workflows:
